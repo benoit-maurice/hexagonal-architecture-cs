@@ -1,4 +1,6 @@
-﻿namespace domain
+﻿using System.Text.Json.Serialization;
+
+namespace domain
 {
     public class ReservationRequest
     {
